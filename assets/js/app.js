@@ -1,3 +1,10 @@
+// var recipes = JSON.parse(localStorage.getItem('recipes'));
+
+// console.log(recipes);
+
+
+
+
 var ingredients = [];
 
 function showModal() {
