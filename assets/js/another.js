@@ -71,7 +71,6 @@ for (var i = 0; i < recipes.length; i++) {
       <ul>
         ${ingredients}
       </ul>
-      <p class="instructions">${recipes[i].instructions}</p>
     </div>`
   );
 
